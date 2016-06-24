@@ -1,1 +1,2 @@
 # vibeguru-hook
+hello
