@@ -1,0 +1,4 @@
+#!/bin/sh
+
+REPO=$(git remote get-url origin)
+node ~/.vibeguru/index.js $REPO

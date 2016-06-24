@@ -1,8 +1,14 @@
 {
-  "name": "vibeguru",
+  "name": "vibeguru-hook",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "mime": "^1.3.4",
+    "node-base64-image": "^1.0.1",
+    "shelljs": "^0.7.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
