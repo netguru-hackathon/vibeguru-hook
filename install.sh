@@ -1,6 +1,6 @@
 brew install imagesnap
-cp  -r . ~/.vvv
-cd ~/.vvv
+cp  -r . ~/.vibeguru
+cd ~/.vibeguru
 npm install
 
 mkdir ~/.vibe-git-template
